@@ -1,0 +1,1 @@
+Mõõdetud õues. Teist korda esines probleem, et ülemine detektor ei vilkunud ning alumine oli pidevalt põlemas. See kord oli alumiseks master ja ülemiseks slave. Praegune hüpotees on temperatuuriga seotud.
