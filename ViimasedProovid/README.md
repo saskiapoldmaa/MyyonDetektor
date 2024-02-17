@@ -1,1 +1,1 @@
-Siin on viimased mõõtmised kui slave detektorile on lisatud delay. Delay pikkus on faili juures täpsustatud. Slave oli ülemine, DFduinoga board
+Siin on viimased mõõtmised kui master detektorile on lisatud delay. Delay pikkus on faili juures täpsustatud. Slave oli ülemine, DFduinoga board. Kusjuures esimsed delay(30) failid on ekslikud, sest aslave detektor tuvastas pulsse ka peale masterilt toite eemaldamist.
